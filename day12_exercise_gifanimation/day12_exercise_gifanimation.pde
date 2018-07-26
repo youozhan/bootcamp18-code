@@ -34,5 +34,4 @@ void draw(){
   imageIndex=(imageIndex+1)% 10;
   image(images2[imageIndex], width/2-xPosition, height/2, 110, 160);
   imageIndex=(imageIndex+1)% 10; 
-  
 }
