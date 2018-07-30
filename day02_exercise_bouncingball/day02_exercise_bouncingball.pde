@@ -1,7 +1,7 @@
 // Example 5-6: Bouncing Ball
 int x = 0;
 int speedx = 2;
-int y = 0;
+int y = 120;
 int speedy = 2;
 
 void setup() {
@@ -9,7 +9,7 @@ void setup() {
 }
 
 void draw() {
-  background(255);
+  background(0);
 
   // Add the current speed to the x location.
   x = x + speedx;
