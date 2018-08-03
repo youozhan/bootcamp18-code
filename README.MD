@@ -15,3 +15,10 @@
 #### [TeamLab - Crows are Chased and the Chasing Crows are Destined to be Chased as well, Floating Nest](https://www.teamlab.art/w/crows_nest/)
 
 #### [Addicted products - The Story of Brad the Toaster](http://www.simonerebaudengo.com/addictedproducts/)
+
+## Resources
+#### [Reference](https://processing.org/reference/)
+
+#### [The Coding Train - Learning Processing](https://www.youtube.com/user/shiffman/playlists?shelf_id=2&view=50&sort=dd)
+
+#### [Download](https://processing.org/download/)
