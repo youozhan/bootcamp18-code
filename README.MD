@@ -9,17 +9,17 @@
 
 #### [Functions](https://docs.google.com/presentation/d/1pnhpw8OnLQv-GyQkMYYxo0-jgCsR471UhLwjJ57brUw/edit?usp=sharing)
 
-#### [Arrays & For Loops]
+#### [Functions](https://docs.google.com/presentation/d/1pnhpw8OnLQv-GyQkMYYxo0-jgCsR471UhLwjJ57brUw/edit?usp=sharing)
 
-#### [Physics & Vectors]
+#### [Arrays & For Loops](https://drive.google.com/open?id=1Nd7T-FBs1lJtQqDVnGPxb3layk-5T9opgJnbxYBfxTo)
 
-#### [Classes 1]
+#### [Classes 1](https://drive.google.com/open?id=1Q45SasYcdHYp4LO9PavrahrVZuF1u6newpDDrx27lFM)
 
-#### [Classes 2]
+#### [Classes 2](https://drive.google.com/open?id=1wl7aHnMg2dyGg-xfgiDIUZNFugQKL9eHJrxTLBmFhaM)
 
-#### [Media]
+#### [Media](https://drive.google.com/open?id=1wiyBS2VE8-Vjhu2GHe5yHcDC0RkDbD_naqgFqJNGlXY)
 
-#### [Midterm - Text Adventure]
+#### [Physics & Vectors](https://drive.google.com/open?id=1_v92whpEu-mosKJKLTu9IWDj3KcZKtLSlNGIJnrYomU)
 
 ## Ideas, Inspirations
 #### [Bjørn Karmann - Objectifier](https://bjoernkarmann.dk/objectifier)
@@ -28,9 +28,19 @@
 
 #### [Addicted products - The Story of Brad the Toaster](http://www.simonerebaudengo.com/addictedproducts/)
 
+#### [AI Experiments - Google](https://experiments.withgoogle.com/collection/ai)
+
+#### [INORI](https://vimeo.com/210599507)
+
+#### [Sharing Faces](https://vimeo.com/96549043)
+
 ## Resources
 #### [Reference](https://processing.org/reference/)
 
 #### [The Coding Train - Learning Processing](https://www.youtube.com/user/shiffman/playlists?shelf_id=2&view=50&sort=dd)
 
 #### [Download Processing](https://processing.org/download/)
+
+#### [Learning Processing Examples](http://learningprocessing.com/examples/)
+
+#### [The Nature of Code Examples](https://github.com/shiffman/The-Nature-of-Code-Examples)
