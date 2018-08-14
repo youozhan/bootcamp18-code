@@ -9,6 +9,18 @@
 
 #### [Functions](https://docs.google.com/presentation/d/1pnhpw8OnLQv-GyQkMYYxo0-jgCsR471UhLwjJ57brUw/edit?usp=sharing)
 
+#### [Arrays & For Loops]
+
+#### [Physics & Vectors]
+
+#### [Classes 1]
+
+#### [Classes 2]
+
+#### [Media]
+
+#### [Midterm - Text Adventure]
+
 ## Ideas, Inspirations
 #### [Bjørn Karmann - Objectifier](https://bjoernkarmann.dk/objectifier)
 
@@ -21,4 +33,4 @@
 
 #### [The Coding Train - Learning Processing](https://www.youtube.com/user/shiffman/playlists?shelf_id=2&view=50&sort=dd)
 
-#### [Download](https://processing.org/download/)
+#### [Download Processing](https://processing.org/download/)
